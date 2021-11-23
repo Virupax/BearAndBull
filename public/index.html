@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>WebSocket</title>
+</head>
+<body>
+</body>
+<script>
+const ws = new WebSocket('ws://localhost:3000/');
+ws.onopen = function() {
+    console.log('WebSocket Client Connected');
+    // ws.send('AAPL');
+};
+ws.onmessage = function(e) {
+  console.log("Received: '" + e.data + "'");
+  console.log(JSON.parse(e.data));
+};
+</script>
+</html>
