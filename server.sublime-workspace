@@ -1,0 +1,342 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"S",
+				"Subscriber"
+			],
+			[
+				"pr",
+				"prevData"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"le",
+				"letters"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"in",
+				"infogain"
+			],
+			[
+				"m",
+				"maxi"
+			],
+			[
+				"pa",
+				"packagesSpaces"
+			],
+			[
+				"p",
+				"packages"
+			],
+			[
+				"c",
+				"customer"
+			],
+			[
+				"ti",
+				"title\tTag"
+			],
+			[
+				"me",
+				"meta\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/virup/Documents/ICICI/Applications/Applications/UNCC - IT/FALL 2021/ITCS5201 - Survey of Programming languages/Project/BearAndBull/producer.js",
+		"/C/Users/virup/Documents/ICICI/Applications/Applications/UNCC - IT/FALL 2021/ITCS5201 - Survey of Programming languages/Project/BearAndBull/subscriber.js",
+		"/C/Users/virup/Documents/ICICI/Applications/Applications/UNCC - IT/FALL 2021/ITCS5201 - Survey of Programming languages/Project/BearAndBull/emit_logs.js",
+		"/C/Users/virup/Documents/ICICI/Applications/Applications/UNCC - IT/FALL 2021/ITCS5201 - Survey of Programming languages/Project/BearAndBull/receive_logs.js",
+		"/C/Users/virup/Documents/ICICI/Applications/Applications/UNCC - IT/FALL 2021/ITCS5201 - Survey of Programming languages/Project/POC/Test1/server.js",
+		"/C/Users/virup/Documents/ICICI/Applications/Applications/UNCC - IT/FALL 2021/ITCS5201 - Survey of Programming languages/Project/POC/Test1/receive_logs.js",
+		"/C/Users/virup/Documents/ICICI/Applications/Applications/UNCC - IT/FALL 2021/ITCS5201 - Survey of Programming languages/Project/POC/Test1/emit_logs.js",
+		"/C/kafka/config/server.properties",
+		"/C/kafka/config/zookeeper.properties",
+		"/C/Program Files/Sublime Text 3/temp.py",
+		"/C/kafka_2.12-3.0.0/config/zookeeper.properties",
+		"/C/kafka_2.12-3.0.0/config/server.properties",
+		"/C/Users/virup/AppData/Local/Temp/Rar$DIa8952.3997/README.md",
+		"/C/Users/virup/Documents/ICICI/Applications/Applications/UNCC - IT/SPRING 2021/Courses/System Integration/Final Project/Bing Search V7 API/server.js",
+		"/C/Users/virup/AppData/Local/Temp/Rar$DIa1540.35404/Expense.js",
+		"/C/Users/virup/AppData/Local/Temp/Rar$DIa1540.34602/budget.js",
+		"/C/Users/virup/AppData/Local/Temp/Rar$DIa1540.31219/auth.js",
+		"/C/Users/virup/AppData/Local/Temp/Rar$DIa1540.36109/util.js",
+		"/C/Users/virup/AppData/Local/Temp/Rar$DIa1540.29944/budget.js",
+		"/C/Users/virup/AppData/Local/Temp/Rar$DIa1540.23165/server.js",
+		"/C/Users/virup/Desktop/Quick Access/Anoop/index.html",
+		"/C/Users/virup/Documents/ICICI/Applications/Applications/UNCC - IT/SPRING 2021/Courses/System Integration/Final Project/Bing Search V7 API/App Constants/apiConstants.js",
+		"/C/Users/virup/Documents/ICICI/Applications/Applications/UNCC - IT/FALL 2021/ITCS5201 - Survey of Programming languages/Project/3 programs/DS.js",
+		"/C/Users/virup/Documents/ICICI/Applications/Applications/UNCC - IT/FALL 2021/ITCS5201 - Survey of Programming languages/Project/CS.js",
+		"/C/Users/virup/Documents/ICICI/Applications/Applications/UNCC - IT/FALL 2021/ITCS5201 - Survey of Programming languages/Project/DS.js",
+		"/C/Users/virup/Documents/ICICI/Applications/Applications/UNCC - IT/FALL 2021/ITCS5201 - Survey of Programming languages/Project/IO.js",
+		"/C/Users/virup/Documents/ICICI/Applications/Applications/UNCC - IT/FALL 2021/ITCS5201 - Survey of Programming languages/Project/Index.js",
+		"/C/Users/virup/Documents/ICICI/Applications/Applications/UNCC - IT/SPRING 2021/Courses/System Integration/Final Project/Bing Search V7 API/README.md",
+		"/C/Users/virup/Documents/ICICI/Applications/Applications/UNCC - IT/Resume/Companies/Goldman Sachs/Practice/questions.txt",
+		"/C/Users/virup/Documents/ICICI/Applications/Applications/UNCC - IT/Resume/Templates.txt",
+		"/C/Users/virup/Desktop/temp.java",
+		"/C/Users/virup/Documents/ICICI/Applications/Applications/UNCC - IT/SUMMER 2021/Portfolio/developer-portfolio-master/src/c.java",
+		"/C/Users/virup/Documents/ICICI/Applications/Applications/UNCC - IT/SUMMER 2021/Portfolio/developer-portfolio-master/src/a.java",
+		"/C/Users/virup/Documents/ICICI/Applications/Applications/UNCC - IT/SUMMER 2021/Portfolio/developer-portfolio-master/src/b.java",
+		"/C/Users/virup/Documents/ICICI/Applications/Applications/UNCC - IT/SUMMER 2021/Portfolio/developer-portfolio-master/src/index.js",
+		"/C/Users/virup/Documents/ICICI/Applications/Applications/UNCC - IT/Resume/Companies/Amazon/Practice/Data Structures/Ans 2 Algorithm.txt",
+		"/C/Users/virup/Downloads/Ar_ID3.py",
+		"/C/Users/virup/Documents/ICICI/Applications/Applications/UNCC - IT/SPRING 2021/Courses/System Integration/Assignment 5/app.js",
+		"/C/Users/virup/Documents/ICICI/Applications/Applications/UNCC - IT/SPRING 2021/Courses/System Integration/Assignment 7/server.js",
+		"/C/Users/virup/Documents/ICICI/Applications/Applications/UNCC - IT/SPRING 2021/Courses/System Integration/Assignment 8/SWAGtheREST/server.js",
+		"/C/Users/virup/Documents/ICICI/Applications/Applications/UNCC - IT/SUMMER 2021/Node js OCR/index.js",
+		"/C/Users/virup/Documents/ICICI/Applications/Applications/UNCC - IT/Resume/Portfolio/kards-master/index.html",
+		"/C/Users/virup/Documents/ICICI/Applications/Applications/UNCC - IT/Resume/Companies/Amazon/Practice/Data Structures/Queue.java",
+		"/C/Users/virup/Documents/ICICI/Applications/Applications/UNCC - IT/Resume/Companies/Amazon/Practice/Data Structures/Stack.java",
+		"/C/Users/virup/Documents/ICICI/Applications/Applications/UNCC - IT/Resume/Companies/Amazon/Practice/Data Structures/QuickSort.java",
+		"/C/Users/virup/Documents/ICICI/Applications/Applications/UNCC - IT/Resume/Companies/Amazon/Practice/Data Structures/Ans .java",
+		"/C/Users/virup/Documents/ICICI/Applications/Applications/UNCC - IT/Resume/Companies/Amazon/Practice/Data Structures/Ans 1 Algorithm.txt",
+		"/C/Users/virup/Documents/ICICI/Applications/Applications/UNCC - IT/Resume/Companies/Amazon/Practice/Data Structures/Ans 1.py",
+		"/C/Users/virup/Documents/ICICI/Applications/Applications/UNCC - IT/Resume/Companies/Amazon/Intro.txt",
+		"/C/Users/virup/Documents/ICICI/Applications/Applications/UNCC - IT/FALL 2020/Courses/SSDI - Copy/Assignment - Programming 2/BankAccountDemo.java",
+		"/C/Users/virup/Documents/ICICI/Applications/Applications/UNCC - IT/Resume/Companies/Amazon/Practice/Data Structures/Ans 2.java",
+		"/C/Users/virup/Documents/ICICI/Applications/Applications/UNCC - IT/FALL 2020/Courses/SSDI - Copy/Assignment - Programming 1/Source/BankAccount.java",
+		"/C/Users/virup/Documents/ICICI/Applications/Applications/UNCC - IT/FALL 2020/Courses/SSDI - Copy/Assignment - Programming 2/BankAccount_backup.java",
+		"/C/Users/virup/AppData/Local/Temp/Rar$DIa1492.23590/GreatHouse.java",
+		"/C/Users/virup/AppData/Local/Temp/Rar$DIa1492.24350/BankAccount.java",
+		"/C/Users/virup/Documents/ICICI/Applications/Applications/UNCC - IT/Resume/Companies/Amazon/Practice/Data Structures/MergeSort.java",
+		"/C/Users/virup/Documents/ICICI/Applications/Applications/UNCC - IT/Resume/Companies/Amazon/Practice/Data Structures/heapsg@amazon.com",
+		"/C/Users/virup/Documents/ICICI/Applications/Applications/UNCC - IT/Resume/Portfolio/kards-master/inc/sendEmail.php",
+		"/C/Users/virup/Documents/ICICI/Applications/Applications/UNCC - IT/Resume/Portfolio/developer-portfolio-master/src/portfolio.js",
+		"/C/Users/virup/Documents/ICICI/Applications/Applications/UNCC - IT/Resume/Portfolio/developer-portfolio-master/src/index.js",
+		"/C/Users/virup/Documents/ICICI/Applications/Applications/UNCC - IT/Resume/Portfolio/developer-portfolio-master/public/manifest.json",
+		"/C/Users/virup/Documents/ICICI/Applications/Applications/UNCC - IT/Resume/Portfolio/developer-portfolio-master/public/index.html",
+		"/C/Users/virup/Desktop/test.java",
+		"/C/Users/virup/Desktop/3.java",
+		"/C/Users/virup/Downloads/3.java",
+		"/C/Users/virup/Downloads/1_final.java",
+		"/C/Users/virup/Downloads/3_Final.java",
+		"/C/Users/virup/Documents/ICICI/Applications/Applications/UNCC - IT/SPRING 2020/Courses/ITIS-5166-Network Based Applications Development/Milestone5/Virtual MeetApp/app.js",
+		"/C/Users/virup/Documents/ICICI/Applications/Applications/UNCC - IT/SPRING 2020/Courses/ITIS-5166-Network Based Applications Development/Milestone5/Virtual MeetApp/models/connection.js",
+		"/C/Users/virup/Documents/kodeval/code_runner/routes/routes.js",
+		"/C/Users/virup/Documents/kodeval/nodemon.json",
+		"/C/Users/virup/Documents/kodeval/package.json",
+		"/C/Users/virup/Documents/kodeval/code_runner/controller/submission_cotroller.js",
+		"/C/Users/virup/Documents/kodeval/code_runner/utils/kodevalConstants.js",
+		"/C/Users/virup/Documents/kodeval/code_runner/logger/logger.js",
+		"/C/Users/virup/Documents/ICICI/Applications/Applications/UNCC - IT/SPRING 2021/Courses/System Integration/Final Project/Bing Search V7 API/models/error.js",
+		"/C/Users/virup/Documents/ICICI/Applications/Applications/UNCC - IT/SPRING 2020/Courses/ITIS-5166-Network Based Applications Development/Milestone5/Virtual MeetApp/controllers/MainController.js",
+		"/C/Users/virup/Documents/ICICI/Applications/Applications/UNCC - IT/SPRING 2021/Courses/System Integration/Final Project/Bing Search V7 API/package.json",
+		"/C/Users/virup/Documents/ICICI/Applications/Applications/UNCC - IT/SPRING 2021/Courses/System Integration/Final Project/Bing Search V7 API/apiConstants.js",
+		"/C/Users/virup/Documents/kodeval/code_runner/environments.js",
+		"/C/Users/virup/Documents/ICICI/Applications/Applications/UNCC - IT/SPRING 2021/Courses/System Integration/Final Project/Bing Search V7 API/queryParamConstants.js",
+		"/C/Users/virup/Documents/ICICI/Applications/Applications/UNCC - IT/SPRING 2021/Courses/System Integration/Final Project/Bing Search V7 API/controllers/NewsController.js",
+		"/C/Users/virup/Documents/ICICI/Applications/Applications/UNCC - IT/SPRING 2020/Courses/ITIS-5166-Network Based Applications Development/Milestone5/Virtual MeetApp/models/user.js",
+		"/C/Users/virup/Documents/ICICI/Applications/Applications/UNCC - IT/SPRING 2020/Courses/ITIS-5166-Network Based Applications Development/Milestone5/Virtual MeetApp/utility/connectionDB.js",
+		"/C/Users/virup/Documents/ICICI/Applications/Applications/UNCC - IT/SPRING 2020/Courses/ITIS-5166-Network Based Applications Development/Milestone5/Virtual MeetApp/utility/helpers/authUtil.js",
+		"/C/Users/virup/Documents/ICICI/Applications/Applications/UNCC - IT/SPRING 2020/Courses/ITIS-5166-Network Based Applications Development/Milestone5/Virtual MeetApp/controllers/ConnectionController.js",
+		"/C/Users/virup/Documents/ICICI/Applications/Applications/UNCC - IT/SPRING 2020/Courses/ITIS-5166-Network Based Applications Development/Milestone5/Virtual MeetApp/controllers/UserController.js",
+		"/C/Users/virup/Documents/kodeval/app.js",
+		"/C/Users/virup/Documents/kodeval/compilebox/API/langs.js",
+		"/C/Users/virup/Documents/kodeval/compilebox/API/compilers.js",
+		"/C/Users/virup/Documents/kodeval/js/routes/routes.js",
+		"/C/Users/virup/Documents/kodeval/compilebox/API/app.js",
+		"/C/Users/virup/Documents/kodeval/code_runner/utils/swutils.js",
+		"/C/Users/virup/Documents/ICICI/Applications/Applications/UNCC - IT/Resume/TA course List.txt",
+		"/C/Users/virup/Desktop/test.html",
+		"/C/Users/virup/Documents/ICICI/Applications/Applications/UNCC - IT/SPRING 2021/Courses/System Integration/Assignment 13/WebSockets-Chat-with-SocketIO/index.js",
+		"/C/Users/virup/Documents/ICICI/Applications/Applications/UNCC - IT/SPRING 2021/Courses/System Integration/Assignment 13/index.html",
+		"/C/Users/virup/Documents/ICICI/Applications/Applications/UNCC - IT/SPRING 2021/Courses/System Integration/Assignment 13/index.js",
+		"/C/Users/virup/Documents/ICICI/Applications/Applications/UNCC - IT/Resume/housing application.txt",
+		"/C/Users/virup/Documents/ICICI/Applications/Applications/UNCC - IT/Resume/Virupax.V.2.5.txt",
+		"/C/Users/virup/Downloads/db1_api_docs.json",
+		"/C/Users/virup/Documents/ICICI/Applications/Applications/UNCC - IT/SPRING 2021/Assessments/Eluvio/HTTP/server.js",
+		"/C/Users/virup/IdeaProjects/demo/pom.xml",
+		"/C/Users/virup/Documents/ICICI/Applications/Applications/UNCC - IT/SPRING 2021/Assessments/Diamond Kinetics/reply.txt",
+		"/C/Users/virup/Documents/ICICI/Applications/Applications/UNCC - IT/SPRING 2021/Assessments/Eluvio/HTTP/Index.html",
+		"/C/Users/virup/Documents/ICICI/Applications/Applications/UNCC - IT/SPRING 2021/Assessments/Eluvio/Binary/Binary.java",
+		"/C/Users/virup/Documents/ICICI/Applications/Applications/UNCC - IT/SPRING 2021/Courses/System Integration/Assignment 14/package-lock.json",
+		"/C/Users/virup/Documents/ICICI/Applications/Applications/UNCC - IT/SPRING 2021/Courses/System Integration/Assignment 14/node_modules/xmysql/tests/tests.js",
+		"/C/Users/virup/Documents/ICICI/Applications/Applications/UNCC - IT/SPRING 2021/Courses/System Integration/Assignment 14/node_modules/xmysql/examples/aws-lambda/index.js",
+		"/C/Users/virup/AppData/Roaming/npm/node_modules/xmysql/bin/index.js",
+		"/C/Users/virup/AppData/Roaming/npm/node_modules/xmysql/tests/tests.js",
+		"/C/Users/virup/Documents/ICICI/Applications/Applications/UNCC - IT/SPRING 2021/Courses/System Integration/Assignment 14/sample_data.json",
+		"/C/Users/virup/Documents/ICICI/Applications/Applications/UNCC - IT/SPRING 2021/Assessments/Qualcomm/Template.txt",
+		"/C/Users/virup/Documents/ICICI/Applications/Applications/UNCC - IT/SPRING 2021/Assessments/Qualcomm/Cloud Guru/Code Deploy/mywebapp/index.html",
+		"/C/Users/virup/Documents/ICICI/Applications/Applications/UNCC - IT/SPRING 2021/Assessments/Qualcomm/Developer Associate Certification.txt",
+		"/C/Users/virup/Documents/ICICI/Applications/Applications/UNCC - IT/SPRING 2021/Assessments/Qualcomm/Python/test.py",
+		"/C/Users/virup/Desktop/Quick Access/kaltura.html",
+		"/C/Users/virup/Documents/ICICI/Applications/Applications/UNCC - IT/SPRING 2020/Courses/ITIS-5166-Network Based Applications Development/Milestone5/Virtual MeetApp/views/partials/header.ejs",
+		"/C/Users/virup/Documents/ICICI/Applications/Applications/UNCC - IT/SPRING 2020/Courses/ITIS-5166-Network Based Applications Development/Milestone5/Virtual MeetApp/utility/UserDB.js",
+		"/C/Users/virup/Documents/ICICI/Applications/Applications/UNCC - IT/SPRING 2021/Courses/Cloud/Code/Apriori.java",
+		"/C/Users/virup/AppData/Local/Temp/Rar$DIa3544.45529/DemoApplication.java",
+		"/C/Users/virup/Documents/ICICI/Applications/Applications/UNCC - IT/SPRING 2021/Assessments/Eluvio/HTTP/axiosWithDelimiterFile.js",
+		"/C/Users/virup/Documents/ICICI/Applications/Applications/UNCC - IT/SPRING 2021/Courses/System Integration/Assignment 14/GetGeneratedAPIs/app.js",
+		"/C/Users/virup/Documents/ICICI/Applications/Applications/UNCC - IT/SPRING 2021/Courses/System Integration/Assignment 14/node_modules/xmysql/index.js",
+		"/C/Users/virup/Documents/ICICI/Applications/Applications/UNCC - IT/SPRING 2021/Courses/System Integration/Assignment 13/node_modules/socket.io/client-dist/socket.io.js",
+		"/C/Users/virup/Downloads/sample.1",
+		"/C/Users/virup/Desktop/temp.js",
+		"/C/Users/virup/Documents/ICICI/Applications/Applications/UNCC - IT/SPRING 2021/Courses/Cloud/GroupActivity04_Group8/Part 3/AssociationActionRulesOutputMammData/Terminal1.log"
+	],
+	"find":
+	{
+		"height": 29.6
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.6
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "server.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 592.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

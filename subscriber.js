@@ -2,9 +2,9 @@ function Subscriber(finnhubClient, amqp){
   var prevData;
   setInterval(function() {
     finnhubClient.quote('AAPL', (error, data, response) => {
-      if(prevData != data.c){
-        console.log(prevData);
-        prevData = data.c;
+      // if(prevData != data.c){
+        // console.log(prevData);
+        // prevData = data.c;
         var message = JSON.stringify(data);
 
         amqp.connect('amqp://localhost').then(function(conn) {
@@ -18,7 +18,7 @@ function Subscriber(finnhubClient, amqp){
             });
           }).finally(function() { conn.close(); });
         }).catch(console.warn);
-      }
+      // }
     });
   }, 3000);
 }
