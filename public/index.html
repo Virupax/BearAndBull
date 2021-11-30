@@ -1,19 +1,45 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>WebSocket</title>
+  <title>BearAndBull</title>
+  <script src="https://code.highcharts.com/stock/highstock.js"></script>
+  <script src="https://code.highcharts.com/stock/modules/data.js"></script>
+  <script src="https://code.highcharts.com/stock/modules/exporting.js"></script>
+  <script src="https://code.highcharts.com/stock/modules/export-data.js"></script>
+  <script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.min.js" integrity="sha384-QJHtvGhmr9XOIpI6YVutG+2QOK9T+ZnN4kzFN1RtK3zEFEIsxhlmWl5/YESvpZ13" crossorigin="anonymous"></script>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+  <script src="index.js"></script>
+  <style>
+   p {
+       width: 100%;
+       white-space: nowrap;
+       overflow: hidden;
+       text-overflow: ellipsis;
+  }
+  </style>
 </head>
 <body>
+  <div id="container" style="height: 400px; min-width: 310px"></div>
+  <button onclick='tickerUpdate(this)' value='AAPL'>Apple</button>
+  <button onclick='tickerUpdate(this)' value='MSFT'>Microsoft</button>
+  <button onclick='tickerUpdate(this)' value='AMZN'>Amazon</button>
+  <button onclick='tickerUpdate(this)' value='FB'>Facebook</button>
+  <button onclick='tickerUpdate(this)' value='GOOG'>Google</button>
+  <button onclick='tickerUpdate(this)' value='NVDA'>NVidia</button>
+  <button onclick='tickerUpdate(this)' value='JPM'>JP Morgan</button>
+  <button onclick='tickerUpdate(this)' value='TSLA'>Tesla</button>
+  <button onclick='tickerUpdate(this)' value='NFLX'>Netflix</button>
+  <button onclick='tickerUpdate(this)' value='MRNA'>Moderna</button>
+  <button onclick='tickerUpdate(this)' value='PYPL'>Paypal</button>
+  <button onclick='tickerUpdate(this)' value='CSCO'>Cisco</button>
+
+  <div class="py-5">
+    <div class="container">
+      <div id="tilerow" class="row hidden-md-up">
+      </div>
+    </div>
+  </div>
 </body>
-<script>
-const ws = new WebSocket('ws://localhost:3000/');
-ws.onopen = function() {
-    console.log('WebSocket Client Connected');
-    // ws.send('AAPL');
-};
-ws.onmessage = function(e) {
-  console.log("Received: '" + e.data + "'");
-  console.log(JSON.parse(e.data));
-};
-</script>
 </html>

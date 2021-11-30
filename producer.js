@@ -1,9 +1,12 @@
+const Subscriber = require('./subscriber.js');
+
 function Producer(finnhubClient, amqp, websocketServer){
   websocketServer.on('request', function(request) {
     const connection = request.accept(null, request.origin);
 
     connection.on('message', function(message) {
       var symbol = message.utf8Data;
+      Subscriber(finnhubClient, amqp, symbol);
     });
     
     connection.on('close', function(reasonCode, description) {
